@@ -1,2 +1,6 @@
 # evaulation-cars
-evaluation car project with decision tree
+ evaluation car with kinds of features
+# Decision Tree
+# Feature Engineering 
+# Entropy 
+ 
